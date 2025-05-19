@@ -35,12 +35,12 @@ Centralized authentication is critical in any secure environment.
 
 ## 📸 Screenshots
 
-<img src="https://github.com/YourRepoPath/screenshots/ldap-config.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/ldap-config.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/ldap-config.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/kerberos-auth-success.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/kerberos-auth-success.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/kerberos-auth-success.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/ldap-installed.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/ldap-shadow-password.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/ldap-config-output.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/kerberos-config.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/kerberos-principles.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/kerberos-principles1.png" width="50%"/>
 
 ---
 
@@ -58,8 +58,8 @@ Protecting the network starts at the host level.
 
 ## 📸 Screenshots
 
-<img src="https://github.com/YourRepoPath/screenshots/firewalld-zones-setup.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/firewalld-zones-setup.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/apache2-installed-testing.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/firewalld-config.png" width="50%"/>
 
 ---
 
@@ -80,8 +80,11 @@ Hardened the Apache web server against web attacks.
 
 ## 📸 Screenshots
 
-<img src="https://github.com/YourRepoPath/screenshots/modsecurity-block-xss.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/modsecurity-block-xss.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/modsecurity-config.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/modsecurity-enabled-security2module.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/owasp-corerule-download-latestrelease.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/owasp-corerule-config.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/owasp-corerule-configured-output.png" width="50%"/>
 
 ---
 
@@ -99,8 +102,11 @@ Monitored network activity for suspicious behavior and threats.
 
 ## 📸 Screenshots
 
-<img src="https://github.com/YourRepoPath/screenshots/snort-alerts-triggered.png" width="50%"/>
-<img src="https://github.com/YourRepoPath/screenshots/snort-alerts-triggered.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/snort-installed-active.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/snort-config.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/snort-ruleset-test.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/snort-traffic-output.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/snort-file-analysis.png" width="50%"/>
 
 ---
 
