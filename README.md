@@ -163,6 +163,9 @@ This lab demonstrates how I apply industry-standard protocols to secure Linux en
 - 🔒 **Cryptography** ensures data confidentiality, integrity, and authenticity.
 
 ---
+## 🚀 Let’s Work Together
+
+I bring not only technical ability, but a deep understanding of operational impact. I build systems that work—securely, efficiently, and resiliently.
 
 ### 📬 Contact Me
 
