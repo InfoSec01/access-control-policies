@@ -120,8 +120,9 @@ Secured sensitive data using encryption and message authentication.
 
 ### 📸 Screenshots
 
-<img src="" width="50%"/>
-<img src="" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/aescrypt-downloaded.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/aescrypt-encrypt.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/aescrypt-decrypt.png" width="50%"/>
 
 ---
 
@@ -132,8 +133,10 @@ Secured sensitive data using encryption and message authentication.
 
 ### 📸 Screenshots
 
-<img src="" width="50%"/>
-<img src="" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/openssl-privatekey.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/openssl-privatekey-01.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/openssl-publickey.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/openssl-publickey-verify.png" width="50%"/>
 
 ---
 
@@ -145,8 +148,9 @@ Secured sensitive data using encryption and message authentication.
 
 ### 📸 Screenshots
 
-<img src="" width="50%"/>
-<img src="" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/hashing-01.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/hashing-02.png" width="50%"/>
+<img src="https://github.com/InfoSec01/information-security/blob/main/hashing-03.png" width="50%"/>
 
 ---
 
