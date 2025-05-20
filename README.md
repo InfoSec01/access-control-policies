@@ -118,6 +118,11 @@ Secured sensitive data using encryption and message authentication.
 - Custom bash script `acescript` for AES-256-CBC encryption and decryption.
 - Used for securing backup archives and sensitive config files.
 
+### 📸 Screenshots
+
+<img src="" width="50%"/>
+<img src="" width="50%"/>
+
 ---
 
 ### 🧪 OpenSSL & HMAC
@@ -125,21 +130,23 @@ Secured sensitive data using encryption and message authentication.
 - Generated **symmetric and asymmetric keys** using OpenSSL.
 - Signed and verified files using **HMAC with SHA-256** for message integrity and authenticity.
 
+### 📸 Screenshots
+
+<img src="" width="50%"/>
+<img src="" width="50%"/>
+
+---
+
 ### 🧮 Hashing
 
 - Verified file integrity using:
   - `sha256sum`
   - `md5sum`
 
----
-
 ### 📸 Screenshots
 
-> *(Replace with actual screenshots or embed as needed)*  
-> Example:
-> ![OpenSSL Key Generation](screenshots/openssl-keygen.png)  
-> ![HMAC Verification](screenshots/hmac-verification.png)  
-> ![File Hash Check](screenshots/file-hash-comparison.png)
+<img src="" width="50%"/>
+<img src="" width="50%"/>
 
 ---
 
