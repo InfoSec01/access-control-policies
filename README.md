@@ -14,9 +14,8 @@ This project demonstrates how I implement **authentication**, **authorization**,
 2. [🔥 Host-Based Firewall (firewalld)](#host-based-firewall-firewalld)
 3. [🛡️ Web Application Firewall (ModSecurity + OWASP CRS)](#web-application-firewall-modsecurity--owasp-crs)
 4. [🚨 Intrusion Detection System (Snort)](#intrusion-detection-system-snort)
-5. [📸 Screenshots](#screenshots)
-6. [🎯 Why This Matters](#why-this-matters)
-7. [🚀 Let’s Work Together](#lets-work-together)
+5. [🎯 Why This Matters](#why-this-matters)
+6. [🚀 Let’s Work Together](#lets-work-together)
 
 ---
 
